@@ -1,0 +1,37 @@
+{
+  "crud": [
+    {
+      "id": 1,
+      "name": "Portatil",
+      "reference": "Msi-cx62",
+      "price": "5000000",
+      "weight": 300,
+      "category": "Computadores",
+      "stock": 30,
+      "creationdate": "2020-07-09",
+      "lastsaledate": "2020-07-30"
+    },
+    {
+      "id": 2,
+      "name": "Teclado Inalambrico",
+      "reference": "xf1",
+      "price": "900000",
+      "weight": "1",
+      "category": "keboards",
+      "stock": "4000",
+      "creationdate": "2020-07-09",
+      "lastsaledate": "2020-07-16"
+    },
+    {
+      "id": 3,
+      "name": "fdsafdsafdsa",
+      "reference": "fdsa",
+      "price": "f",
+      "weight": "f",
+      "category": "fdsa",
+      "stock": "f",
+      "creationdate": "2020-07-10",
+      "lastsaledate": "2020-07-10"
+    }
+  ]
+}
